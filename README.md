@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spock
-This game is seen in The Big Bang Theory. It is an expansion on the game Rock, Paper, Scissors. This version is a text based game with player vs AI. 
+The Rock Paper Scissors Lizard Spock game is seen in The Big Bang Theory. It is an expansion on the game Rock, Paper, Scissors. This version is a text-based game with player vs. AI. 
 
 ![Rock](https://i.ibb.co/R9Wn1Z4/lizard.png)
 # Game Rules
